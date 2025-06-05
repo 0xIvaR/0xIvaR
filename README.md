@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soham
 - 👀 I’m interested in C,C++,JS,JAVA,ML
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on UI/UX and web development projects focused on creating intuitive, user-centered designs.
+- 💞️ I’m looking to collaborate on Web development projects focused on creating intuitive, user-centered designs.
 - 📫 How to reach me -> ✉️Email: sohamkundu4012@gmail.com | 💬Discord: its_ivar
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m passionate about blending creativity with tech—whether it’s through UI design or gaming!
