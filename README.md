@@ -12,9 +12,9 @@
 <div align="center">
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xIvaR&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-sohams-projects-ec9f5f5d.vercel.app/api?username=0xIvaR&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=0xIvaR&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xIvaR&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sohams-projects-ec9f5f5d.vercel.app/api/top-langs/?username=0xIvaR&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
